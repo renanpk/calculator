@@ -1,1 +1,1 @@
-# closebar-calculator
+# Closebar Calculator
